@@ -24,8 +24,8 @@
 #define INITIAL_GREEN_DELAY  200
 #define NEW_GREEN_DELAY  20
 
-int ledPinRed =  8;
-int ledPinGreen =  9;
+int ledPinRed =  14;
+int ledPinGreen =  15;
 
 unsigned int greenDelay = INITIAL_GREEN_DELAY;
 boolean redLED_isOn = false;
